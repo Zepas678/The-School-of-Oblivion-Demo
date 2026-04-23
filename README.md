@@ -1,5 +1,5 @@
 # Core Engine Prototype: The School of Oblivion
-**Desarrollador:** [Tu Nombre]  
+**Desarrollador:** Juan Pablo Zea  
 **Institución:** SENA - Centro de Diseño y Metodología (Ficha 2977310)  
 **Rol:** Programador de Gameplay / Desarrollador Unity  
 
