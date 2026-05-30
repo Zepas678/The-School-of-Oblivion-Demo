@@ -24,6 +24,10 @@ https://github.com/user-attachments/assets/a834fd2b-66d2-4e98-9751-638514918d64
 - **Lenguaje:** C# (Scripts de lógica, IA y triggers)
 - **Contro
 
+<img width="412" height="637" alt="Captura de pantalla 2026-05-21 223357" src="https://github.com/user-attachments/assets/789372a9-5538-444a-9322-a1ae6c8d60eb" />
+
+
+
 
 
 l de Versiones:** Git / GitHub
